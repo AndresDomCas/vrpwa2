@@ -1,0 +1,19 @@
+{
+    "name": "Vr pwa",
+    "short_name": "Vrnutrio",
+    "start_url": "www/index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+          "src": "/assets/images/icons/icon-72x72.png",
+          "type": "image/png", "sizes": "72x72"
+        },
+        {
+            "src": "/assets/images/icons/icon-72x72.png",
+            "type": "image/png", "sizes": "72x72"
+        }
+    ]
+  }
